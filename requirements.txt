@@ -1,0 +1,21 @@
+# nmap_vuln_scanner
+python-nmap
+
+# subdomain_scanner
+requests
+censys
+dnspython
+dnslib
+
+# zoomeye_scanner
+requests
+
+# pastedump_finder
+requests
+
+# website_mail_crawler
+beautifulsoup4
+requests
+
+# databases_today
+requests
